@@ -17,7 +17,7 @@ let package = Package(
     targets: [
         .binaryTarget(
               name: "TalsecRuntime",
-              path: "Sources/TalsecRuntime.xcframework"
+              path: "Talsec/TalsecRuntime.xcframework"
         )
     ]
 )
